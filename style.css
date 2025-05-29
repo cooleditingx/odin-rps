@@ -1,0 +1,46 @@
+@font-face {
+    font-family: game of squids;
+    src: url("../odin-rps/Game\ Of\ Squids.ttf");
+}
+body {
+    background-color: black;
+}
+#container {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    height: 30em;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.logo{
+    width: 20%;
+    height: 30%;
+    margin: 5%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+.btn1 {
+    all: unset;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 2.5em;
+    color: #f01b77;
+    font-family: game of squids;
+    height: 3em;
+}
+.btn1:hover {
+    color: #ffffff;
+}
+.btn1:active {
+    color: #f01b77;
+}
+.header {
+    background: linear-gradient(to right,  #ffffff 0%,#ffffff 29%,#ffffff 29%,#f01b77 29%,#f01b77 51%,#bdf3fd 51%,#ffffff 51%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 80px;
+    font-family: game of squids;
+    text-align: center;
+}

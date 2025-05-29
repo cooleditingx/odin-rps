@@ -1,4 +1,4 @@
-let user = prompt("choose your weapon").toLowerCase();
+/*let user = prompt("choose your weapon").toLowerCase();
 function getCompChoice(){
     let choice = Math.floor(Math.random() *3)
     switch (choice){
@@ -90,5 +90,9 @@ function playgame(){
         let ties = "It's a tie"
         return ties
     }
+}*/
+const btn1 = document.querySelector("button");
+btn1.addEventListener("click", changepage);
+function changepage (){
+    window.location.href = "game.html"
 }
-console.log(playgame())
