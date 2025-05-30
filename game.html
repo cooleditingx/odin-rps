@@ -4,30 +4,39 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Game</title>
+    <link rel="stylesheet" href="styleg.css">
+    <script src="main.js" defer></script>
 </head>
 <body>
     <div class="container">
-        <h1>Rock, Paper, Scissors?</h1>
+        <h1 class="header">Rock Paper Scissors?</h1>
         <div class="scoreboard">
             <div class="container2">
                 <h3 class="player">Player</h3>
-                <h3 class="scorep">0</h3>
+                <h3 class="scorep">1</h3>
             </div>
             <div class="container2">
                 <h3 class="player">Computer</h3>
-                <h3 class="scorec">0</h3>
+                <h3 class="scorec">4</h3>
             </div>
         </div>
         <div class="weapons">
-            <button>
+            <button class="btn1">
                 <img src="circle.png" alt="Rock">
+            </button>
+            <button class="btn2">
                 <img src="square.png" alt="Paper">
+            </button>
+            <button class="btn3">
                 <img src="triangle.png" alt="Scissors">
             </button>
         </div>
-        <p></p>
-        <h2 class="roundwinner"></h2>
-        <button class="btn1">Play Again?</button>
+        <div class="container3">
+            <p class="roundwinner">You lose! Rock beats Scissors</p>
+            <h2 class="winner">You Win!!!</h2>
+            <button class="btn4">Play Again?</button>
+        </div>
+   
     </div>
 </body>
 </html>
