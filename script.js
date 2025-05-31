@@ -16,7 +16,7 @@ function getCompChoice(){
 let compchoice = String(getCompChoice().toLowerCase())
 let humanscore = 0;
 let computerscore = 0;
-const totaltie = 29;
+const totaltie = 0;
 let tie = "It's a tie!";
 let userwin = "You win!";
 let compwin = "Computer wins";
