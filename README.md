@@ -1,6 +1,6 @@
-# ✂️ Rock Paper Scissors (RPS)
+# 🟥 Rock Paper Scissors (RPS) - Squid Game Edition
 
-**A fully functional, interactive game of Rock Paper Scissors built to solidify fundamental JavaScript DOM manipulation and game logic.**
+**A fully functional, interactive game of Rock Paper Scissors built with JavaScript, featuring a striking design inspired by the popular Korean Netflix series, *Squid Game*.**
 
 [![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](#[Technologies-Used])
 [![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](#[Technologies-Used])
@@ -9,21 +9,21 @@
 
 ## 📸 Demo
 
-https://cooleditingx.github.io/odin-rps/index.html
 A visual demonstration of the game interface and interaction.
+https://cooleditingx.github.io/odin-rps/index.html
+
 <img width="1470" height="798" alt="Screenshot 2025-11-17 at 10 12 02 PM" src="https://github.com/user-attachments/assets/87ef7e94-f6d2-47d8-aed2-8d0fcc63eee5" />
 
 
-
-> The main interface where the player selects a move (Rock, Paper, or Scissors).
+> The main interface where the player selects a move, featuring the game's themed aesthetic.
 
 ***
 
 ## 📖 Description
 
-The **Rock Paper Scissors** project is a core exercise focused on building interactive web applications using pure JavaScript. The goal was to program the game logic, handle user input via the DOM, and update the interface dynamically based on the game's outcome.
+The **Rock Paper Scissors** project is a core exercise focused on building interactive web applications using pure JavaScript. While it serves to program the classic game logic and handle DOM manipulation, its design is heavily influenced by the visual identity of the global phenomenon, **Squid Game**.
 
-The application pits the user against a randomized computer opponent over a series of rounds, tracking and displaying the score in real-time until a final winner is declared.
+The application pits the user against a randomized computer opponent over a series of rounds. The thematic elements, including custom fonts and simple, geometric visual cues, create a unique and engaging experience distinct from a typical RPS implementation.
 
 ***
 
@@ -60,11 +60,11 @@ Since this is a client-side web application, no servers or build environments ar
 
 This implementation of Rock Paper Scissors includes the following features:
 
+* 🎨 **Squid Game Inspired Design:** Utilizes a custom, minimalist design and color palette inspired by the Korean Netflix series.
+* 🔪 **Thematic Typography:** Employs the included custom font (`Game of Squids`) to enhance the theme.
 * 🤖 **Randomized CPU Choice:** The computer's move is determined randomly for an unpredictable challenge.
 * 📊 **Score Tracking:** Displays the current score for both the player and the computer.
-* 📢 **Real-Time Feedback:** Provides immediate text or visual feedback after each round, declaring the winner.
 * 🎮 **Game End Condition:** Tracks the score until one player reaches a predetermined winning total, announcing the final victor.
-* 🎨 **Custom Typography:** Utilizes custom fonts (`Game of Squids`) for a unique aesthetic.
 
 ***
 
