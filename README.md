@@ -1,40 +1,80 @@
-<h1 align="center">Hi 👋, I'm Dua Anas</h1>
-<h3 align="center">I am a self taught web developer who likes to make fun projects and combine my passion for astrophysics with computer science</h3>
+# ✂️ Rock Paper Scissors (RPS)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cooleditingx&label=Profile%20views&color=0e75b6&style=flat" alt="cooleditingx" /> </p>
+**A fully functional, interactive game of Rock Paper Scissors built to solidify fundamental JavaScript DOM manipulation and game logic.**
 
-- 🔭 I’m currently working on **Productivity App**
+[![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](#[Technologies-Used])
+[![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](#[Technologies-Used])
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#[Technologies-Used])
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-- 🌱 I’m currently learning **TOP Intermediate course**
+## 📸 Demo
 
-- 👯 I’m looking to collaborate on **Library/Reading App**
+https://cooleditingx.github.io/odin-rps/index.html
+A visual demonstration of the game interface and interaction.
+<img width="1470" height="798" alt="Screenshot 2025-11-17 at 10 12 02 PM" src="https://github.com/user-attachments/assets/87ef7e94-f6d2-47d8-aed2-8d0fcc63eee5" />
 
-- 💬 Ask me about **anything**
 
-- 📫 How to reach me **cooleditingx@yahoo.com**
+![Game Screenshot](Untitled_Artwork.png)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dua anas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dua anas" height="30" width="40" /></a>
-<a href="https://instagram.com/studydream393" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="studydream393" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/studydream" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="studydream" height="30" width="40" /></a>
-</p>
+> The main interface where the player selects a move (Rock, Paper, or Scissors).
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+***
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=cooleditingx&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=cooleditingx&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cooleditingx&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📖 Description
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+The **Rock Paper Scissors** project is a core exercise focused on building interactive web applications using pure JavaScript. The goal was to program the game logic, handle user input via the DOM, and update the interface dynamically based on the game's outcome.
 
----
-[![](https://visitcount.itsvg.in/api?id=cooleditingx&icon=0&color=0)](https://visitcount.itsvg.in)
+The application pits the user against a randomized computer opponent over a series of rounds, tracking and displaying the score in real-time until a final winner is declared.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+***
 
+## 💻 Local Setup & Usage
+
+Since this is a client-side web application, no servers or build environments are necessary.
+
+### How to Copy it for Your Own Computer
+
+1.  **Clone the Repository:**
+    Open your terminal or command prompt and clone the project:
+    ```bash
+    git clone [https://github.com/cooleditingx/odin-rps.git](https://github.com/cooleditingx/odin-rps.git)
+    cd odin-rps
+    ```
+
+2.  **Open and Play:**
+    Locate the main HTML file (`index.html` or `game.html`) and open it directly in your web browser.
+    ```bash
+    open index.html # For macOS/Linux
+    # OR
+    start index.html # For Windows
+    ```
+
+### How to Use it
+
+* Click on one of the three options (Rock, Paper, or Scissors) to play a round.
+* The game logic will calculate the winner of the round (Player vs. Computer).
+* The score is automatically updated on the screen.
+
+***
+
+## ✨ Features
+
+This implementation of Rock Paper Scissors includes the following features:
+
+* 🤖 **Randomized CPU Choice:** The computer's move is determined randomly for an unpredictable challenge.
+* 📊 **Score Tracking:** Displays the current score for both the player and the computer.
+* 📢 **Real-Time Feedback:** Provides immediate text or visual feedback after each round, declaring the winner.
+* 🎮 **Game End Condition:** Tracks the score until one player reaches a predetermined winning total, announcing the final victor.
+* 🎨 **Custom Typography:** Utilizes custom fonts (`Game of Squids`) for a unique aesthetic.
+
+***
+
+## 🛠️ Technologies Used
+
+This project was developed using the fundamental building blocks of front-end web development:
+
+| Technology | Role |
+| :--- | :--- |
+| **HTML5** | Defines the game structure and user interface elements. |
+| **CSS3** | Styles the game, including layout, colors, and visual presentation. |
+| **JavaScript (ES6+)** | Handles all interactive game logic, scorekeeping, and DOM manipulation. |
