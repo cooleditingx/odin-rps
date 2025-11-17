@@ -14,7 +14,6 @@ A visual demonstration of the game interface and interaction.
 <img width="1470" height="798" alt="Screenshot 2025-11-17 at 10 12 02 PM" src="https://github.com/user-attachments/assets/87ef7e94-f6d2-47d8-aed2-8d0fcc63eee5" />
 
 
-![Game Screenshot](Untitled_Artwork.png)
 
 > The main interface where the player selects a move (Rock, Paper, or Scissors).
 
